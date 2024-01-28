@@ -1,0 +1,1 @@
+/home/nakul/.embedded-postgres-go/extracted/bin/postgres "-D" "postgres" "-p" "5432"
